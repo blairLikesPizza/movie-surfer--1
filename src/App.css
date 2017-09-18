@@ -1,0 +1,34 @@
+.App {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  background-color: lightcyan;
+  height: 100%;
+  width: 100vw;
+}
+
+ .Header {
+    color: turquoise;
+    font-family: courier;
+    font-size: 24px;
+} 
+
+.ratings_main {
+  font-family: arial;
+  color: turquoise;
+  font-size: 24px;
+  height: 200px;
+}
+
+.cover_main {
+  font-family: arial;
+  color: turquoise;
+  font-size: 24px;
+}
+
+.Movie_Cover img {
+  width: 200px;
+}
+
+
+
